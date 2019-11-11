@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Justin's CS-499 page!
+
 
 You can use the [editor on GitHub](https://github.com/justin-taylor1/cs499/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
